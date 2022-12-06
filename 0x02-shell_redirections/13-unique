@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u
+sort asc.txt | uniq -u
